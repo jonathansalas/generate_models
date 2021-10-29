@@ -1,0 +1,5 @@
+To use run the following in terminal:
+
+curl -L https://github.com/jonathansalas/generate_models/raw/main/cmd/generate/generate -o go_models && chmod +x go_models && mv go_models $GOPATH/bin
+
+and follow prompts
